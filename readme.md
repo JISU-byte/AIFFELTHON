@@ -98,7 +98,7 @@ streamlit run streamlit/app_final.py
 ```
 PRISM_THANKYOU/
 ├── AURA/                        # 이전 기수 RAG 시스템 (참고용)
-├── EvaluationMetric/            # RAG 평가 지표
+├── EvaluationMetric/            # 핑드별 성능평가
 ├── metadata/                    # 감사 데이터 메타데이터
 ├── prism_rag/                   # RAG 백엔드 서버
 │   ├── common/                  # 공통 설정 및 유틸리티
